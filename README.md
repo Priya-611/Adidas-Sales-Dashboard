@@ -100,9 +100,13 @@ The dashboard aims to derive insights from various perspectives across different
 
 ## 📎 File Structure
 ├── Adidas US_Sales Datasets.xlsx
+
 │ ├── Sheet1 (Raw Data)
+
 │ └── Cleaned_Data (Modified using Python)
+
 ├── adidas.py (Python script for preprocessing)
+
 └── README.md (This file)
 
 
